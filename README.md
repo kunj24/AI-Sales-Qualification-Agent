@@ -44,9 +44,9 @@ A customer describes their project in plain language. The agent:
 3. Decides whether the lead is **Qualified**, **Unqualified**, or **Needs More Information**, and explains why.
 4. Produces a **structured JSON record** you can download or store in MongoDB.
 
-> **Design idea in one sentence:** the AI model *reads and extracts*, but plain Python code *decides*. This keeps the final decision predictable, testable, and impossible to talk the AI out of.
 
-This project was built for the **AI Prompt Engineer (Round 2)** assignment: *"Build a basic AI sales agent that interacts with potential customers, understands their requirements, qualifies leads, and produces structured lead information using configurable prompts."*
+
+This project was built for the AI sales agent that interacts with potential customers, understands their requirements, qualifies leads, and produces structured lead information using configurable prompts."*
 
 ---
 
