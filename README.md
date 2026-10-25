@@ -177,7 +177,7 @@ cp .env.example .env        # Windows: copy .env.example .env
 
 ```dotenv
 GEMINI_API_KEY=your_actual_api_key_here
-GEMINI_MODEL=gemini-3.8-flash
+GEMINI_MODEL=gemini-3.8-flash or gemini-3.5-flash-lite
 ```
 
 > 🔒 **Never commit your `.env` file.** It is already listed in `.gitignore`.
